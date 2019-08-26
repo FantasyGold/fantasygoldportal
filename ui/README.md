@@ -11,7 +11,7 @@ This hands-on tutorial will guide you through the process of developing a Fantas
 So let's get started. First, clone the repo:
 
 ```
-git clone https://github.com/hayeah/neutrino-react-ts-boilerplate.git my-project
+git clone https://github.com/fantasygold/neutrino-react-ts-boilerplate.git my-project
 ```
 
 This repository provides a simple DApp UI to interact with the [Counter.sol](contracts/Counter.sol) contract:

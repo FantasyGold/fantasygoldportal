@@ -1,6 +1,7 @@
 package cli
 
 import (
+    "github.com/fantasygold/fantasygoldportal"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
